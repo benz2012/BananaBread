@@ -1,0 +1,19 @@
+body { 
+	padding-top: 70px; 
+}
+
+#feed-select {
+	margin-top: 50px;
+}
+
+.navbar-text img {
+	opacity: 0.75;
+} 
+
+.list-group-item a{
+	color: black !important;
+}
+
+.glyphicon.glyphicon-star, .glyphicon.glyphicon-star-empty {
+	cursor: pointer;
+}
